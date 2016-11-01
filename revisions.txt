@@ -1,0 +1,53 @@
+<!--<table id="gameBoard">
+            <tr>
+                <td class="cell">X</td>
+                <td class="cell">O</td>
+                <td class="cell">X</td>
+            </tr>
+                
+             <tr>
+                <td class="cell">O</td>
+                <td class="cell">X</td>
+                <td class="cell">O</td>
+            </tr>
+                
+             <tr>
+                <td class="cell">O</td>
+                <td class="cell">X</td>
+                <td class="cell">X</td>
+            </tr>
+            </table>-->
+
+
+//var cells = document.querySelectorAll('table td');
+
+
+//Array.prototype.forEach.call(cells, function() {
+
+    //for(var i=0; i <cells.length; i++){
+    //lls[i].addEventListener("click", function(){
+      
+    //;
+    //
+//});
+
+/*for(var i in cells){
+    cells[i].firstChild.nodeValue= document.turn;
+}*/
+ /*var table = document.createElement('TABLE');
+    table.border='1';
+   
+    var tableBody = document.createElement('TBODY');
+    table.appendChild(tableBody);
+     
+    for (var i=0; i<3; i++){
+       var tr = document.createElement('TR');
+       tableBody.appendChild(tr);
+       
+       for (var j=0; j<3; j++){
+           var td = document.createElement('TD');
+           tr.appendChild(td);
+           //td.appendChild(document.createTextNode("X"));       
+       }        
+    }*/
+
